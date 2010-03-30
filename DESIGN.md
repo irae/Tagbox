@@ -7,6 +7,7 @@
 * Use QUnit to test the entire plugin.
 * Provide minifyed version
 * Make use of some build system
+* Standardize the way to bind tagbox event. Either by using always custom events or aways as a startup param.
 
 ## Secondary Goals
 
